@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "langgraph-skills",
+  "owner": {
+    "name": "Mineru",
+    "email": "mineru@usefullabs.co.kr"
+  },
+  "plugins": [
+    {
+      "name": "langgraph-docs",
+      "source": "./",
+      "description": "Access up-to-date LangGraph Python documentation for accurate implementation guidance.",
+      "version": "1.0.0"
+    }
+  ]
+}

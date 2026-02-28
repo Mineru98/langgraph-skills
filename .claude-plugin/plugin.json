@@ -1,0 +1,12 @@
+{
+  "name": "langgraph-docs",
+  "version": "1.0.0",
+  "description": "Access up-to-date LangGraph Python documentation for accurate implementation guidance.",
+  "author": {
+    "name": "langgraph-skills maintainers"
+  },
+  "skills": "./langgraph-docs",
+  "repository": "https://github.com/Mineru98/langgraph-skills",
+  "license": "MIT",
+  "keywords": ["langgraph", "documentation", "python", "agents"]
+}
